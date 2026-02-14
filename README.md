@@ -16,7 +16,7 @@
 
 # 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode" />
 </p>
 
 ---
@@ -28,14 +28,7 @@
 
 ---
 
-# 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 # 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🧠 LeetCode: https://leetcode.com/yourusername  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sampritha-j-gowda-925b472a1/
+- 🧠 LeetCode: https://leetcode.com/u/Sampritha_J_Gowda/ 
+- 📧 Email: samprithajgowda@gmail.com  
