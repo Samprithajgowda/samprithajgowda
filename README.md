@@ -22,33 +22,22 @@
 🎯 Goal: Become a Strong Software Developer  
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
+<p align="center">
 
----
+### 💻 Programming  
+<img src="https://skillicons.dev/icons?i=python,c" />
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,django" />
-</p>
+### 🌐 Web Development  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,django,flask" />
 
----
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=sqlite" />
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
+### ⚙️ Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
----
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode,arduino" />
 </p>
 
 
