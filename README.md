@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sampritha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Data+Science+Engineering+Student;Future+Tech+Innovator+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Data+Science+Engineering+Student;Tech+enthusiast🚀" />
 </p>
 
 <p align="center">
