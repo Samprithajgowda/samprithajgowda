@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
+<h1 align="center">Hi 👋, I'm Sampritha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Engineering+Student;Full+Stack+Developer;Django+Enthusiast;Future+Tech+Innovator+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Data+Science+Engineering+Student;Future+Tech+Innovator+🚀" />
 </p>
 
 <p align="center">
@@ -16,10 +16,8 @@
 ## 🌷 About Me
 
 🎓 Engineering Student  
-💻 Passionate about Full Stack Development  
-🚀 Currently building Django projects  
-🌱 Strengthening Data Structures & Backend Concepts  
-🎯 Goal: Become a Strong Software Developer  
+Passionate about Full Stack Development  
+Strengthening Data Structures & Backend Concepts  
 
 ---
 ## 🛠️ Tech Stack
@@ -29,20 +27,10 @@
 </p>
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" height="170"/>
-</p>
-
----
 
 ## 🔥 Current Focus
 
-- Building real-world Django applications  
+ 
 - Improving problem-solving skills (DSA)  
 - Learning backend system design basics  
 
