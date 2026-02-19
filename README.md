@@ -1,15 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sampritha</h1>
+<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Data+Science+Engineering+Student;Tech+enthusiast🚀" />
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Framework-Django-green?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-SQLite-lightgrey?style=for-the-badge" />
-</p>
+<br><br>
 
 ---
 
