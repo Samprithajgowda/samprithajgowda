@@ -25,19 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-### 💻 Programming  
-<img src="https://skillicons.dev/icons?i=python,c" />
-
-### 🌐 Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,django,flask" />
-
-### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=sqlite" />
-
-### ⚙️ Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,bootstrap,django,flask,sqlite,git,github,vscode" />
 </p>
 
 
