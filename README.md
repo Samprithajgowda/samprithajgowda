@@ -25,12 +25,32 @@
 
 ## 🛠️ Tech Stack
 
-```python
-Languages = ["Python", "C", "SQL"]
-Frameworks = ["Django", "Flask"]
-Frontend = ["HTML", "CSS", "Bootstrap"]
-Tools = ["Git", "GitHub", "VS Code"]
-```
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+---
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,django" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode,arduino" />
+</p>
+
 
 ---
 
