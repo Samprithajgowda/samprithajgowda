@@ -8,7 +8,7 @@
 
 ## 🌷 About Me
 
-🎓 Engineering Student  
+Engineering Student  
 Passionate about Full Stack Development  
 Strengthening Data Structures & Backend Concepts  
 
@@ -16,7 +16,7 @@ Strengthening Data Structures & Backend Concepts
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,bootstrap,django,flask,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,django,flask,sqlite,git,github,vscode" />
 </p>
 
 
